@@ -1,0 +1,132 @@
+            a:link {text-decoration:none;}
+            a.wei:hover{text-decoration: none;}
+            a.qq:hover{text-decoration: none;}
+            a:hover{text-decoration: underline;}
+            div.header{
+                background-color: #EFF4FA;
+                height: 60px;
+                }
+            nav.youshangjiao{
+                float:right;
+                height: 60px;
+                line-height: 60px;
+                font-size: 12px;
+                }
+                .content{
+                margin-left: 0;
+                margin-right: 0;
+                height: 500px;
+                margin-top:60px;
+            }
+            .content{
+                margin-left: 0;
+                margin-right: 0;
+                height: 500px;
+                margin-top:80px;
+            }
+            .content .left{
+                float:left;
+                margin-top:50px;
+                margin-left:180px;
+                line-height: 200%;
+                }
+            .left  .h1{
+                color: #6F95C8;
+                font-size: 25px;
+            }
+            .left p{
+                font-size: 15px;
+            }
+            .mid{
+                float: left;
+                margin-top:170px;
+                margin-left:70px;
+                height: 150px;
+                width: 150px;
+                }
+            .ppp{height: 270px;
+                width: 270px;}
+                .right{
+                float: left;
+                margin-left: 190px;
+                margin-top: 30px;
+                height: 400px;
+                width: 350px;
+                border: 1px solid #A0B1C4 ;
+            }
+            .choice{
+                color: #EFF4FA;
+                background-color: #F9FBFE;
+                border: 0.5px solid #A0B1C4 ;
+                height: 55px;
+                line-height: 55px;
+            }
+            .choice .wei{margin-left: 50px;color: #999999;font-size: 18px;}
+            .choice .qq{margin-left: 100px;color: #999999;font-size: 18px;}
+            .id{
+                border: 0.5px solid #A0B1C4;
+                height: 35px;
+                width: 300px;
+                margin-left: 30px;
+                margin-top: 40px;
+            }
+            .password{
+                border:  0.5px solid #A0B1C4;
+                height: 35px;
+                width: 300px;
+                margin-left: 30px;
+                margin-top: 15px;
+            }
+            .zidong{
+                color: #000000;
+                margin-top: 10px;
+                margin-left: 30px;
+                font-size: 3px;
+            }
+            .deng{
+                border:  0.5px solid #A0B1C4;
+                width: 300px;
+                height: 35px;
+                margin-left: 30px;
+                margin-top: 15px;
+                font-size: 20px;
+                background-color: #5A98DE;
+                color: white;
+            }
+            .kuai{
+                height: 50px;
+                margin-left: 100px;
+                margin-top: 80px;
+                font-size: 13px;
+                color: #2255AE;
+
+            }
+            .dibu{
+                margin-top: 20px;
+                margin-left: 40px;
+            }
+            .dibu .forget{
+                font-size: 13px;
+                color: #2255AE;
+                margin-top: 50px;
+                margin-right: 20px;
+                float:right;
+            }
+            div.footer{
+                font-size: 12px;
+                background-color: #BCBCBC;
+                text-align: center;
+                bottom:0;
+                left:0;
+                right:0;
+                height:40px;
+                line-height:40px;
+                border-top:1px solid #d6dfea;
+                border-top:1px solid #d6dfea;
+                background:#eff4fa;
+                text-align: center;
+                color:#b6b6b6;
+                letter-spacing: 0.5px;
+                }
+                div.shenjing{background-color: red;}
+ 
