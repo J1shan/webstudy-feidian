@@ -1,0 +1,44 @@
+#sidebar{
+    height: 850px;
+    width: 266px;
+    background: white;
+    float: left;
+    border-right:1px solid #ccc;
+}
+#sidebar embed{
+    display: block;
+    height: 200px;
+    width: 220px;
+    margin:0 auto;
+    margin-top: 20px;
+}
+#content{
+    width: 600px;
+    height: 850px;
+    background: white;
+    float: right;
+}
+#content h1{
+    background: url(../images/aboutme.gif)no-repeat;
+    width: 127px;
+    height: 26px;
+    font-size: 100%;
+    text-indent: -9999px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#content img{
+    display: block;
+    padding-left: 15px;
+}
+#content p{
+    padding-left:20px;
+    padding-right: 60px;
+    line-height: 180%;
+    text-indent: 24px;
+    letter-spacing: 1px;
+}
+#content p span{
+    color: #06f;
+}
+
